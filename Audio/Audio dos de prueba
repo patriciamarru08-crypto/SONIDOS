@@ -1,2 +1,13 @@
-[ 
-{"url":"afilar/010_afilar.wav","type":"audio","bank":"afilar","n":0} 
+[
+  {"url":"afilar/010_afilar.wav","type":"audio","bank":"afilar","n":0},
+  {"url":"batir/006_batir.wav","type":"audio","bank":"batir","n":0},
+  {"url":"canchita/007_canchita.wav","type":"audio","bank":"canchita","n":0},
+  {"url":"copas/002_copas.wav","type":"audio","bank":"copas","n":0},
+  {"url":"cubiertos/003_cubertos.wav","type":"audio","bank":"cubiertos","n":0},
+  {"url":"hervir/009_hervir.wav","type":"audio","bank":"hervir","n":0},
+  {"url":"huevos/005_huevos.wav","type":"audio","bank":"huevos","n":0},
+  {"url":"platoroto/008_platoroto.wav","type":"audio","bank":"platoroto","n":0},
+  {"url":"ollas/004_ollas.wav","type":"audio","bank":"ollas","n":0},
+  {"url":"platos/001_platos.wav","type":"audio","bank":"platos","n":0}
+] 
+
